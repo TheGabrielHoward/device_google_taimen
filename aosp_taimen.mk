@@ -36,10 +36,10 @@ PRODUCT_COPY_FILES += \
 PRODUCT_RESTRICT_VENDOR_FILES := owner
 
 PRODUCT_MANUFACTURER := Google
-PRODUCT_BRAND := Android
+PRODUCT_BRAND := google
 PRODUCT_NAME := aosp_taimen
 PRODUCT_DEVICE := taimen
-PRODUCT_MODEL := AOSP on taimen
+PRODUCT_MODEL := Google
 
 # Inherit some common  Evolution X stuff.
 TARGET_BOOT_ANIMATION_RES := 1080

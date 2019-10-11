@@ -9,7 +9,7 @@ $(call inherit-product, device/google/taimen/aosp_taimen.mk)
 ## Device identifier. This must come after all inclusions
 PRODUCT_NAME := aosp_taimen
 PRODUCT_DEVICE := taimen
-PRODUCT_BRAND := Google
+PRODUCT_BRAND := google
 PRODUCT_MODEL := Pixel 2 XL
 TARGET_MANUFACTURER := Google
 PRODUCT_RESTRICT_VENDOR_FILES := false
